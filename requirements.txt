@@ -1,0 +1,2 @@
+pygame==1.9.6
+SpeechRecognition==3.8.1
