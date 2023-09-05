@@ -1,10 +1,10 @@
 # All-in (Poker / BlackJack helper)
 
-The goal of the project is to help poker and blackjack players giving them more information about their cards.
+The goal of the project is to help poker and blackjack players giving them more information about their probabilities.
 
 ## Goals
 
-- Need to work with speech recognition (in french)
+- Speech recognition (in french)
 - Need to have a graphical interface
 - Need to give as many statistics as possible
 - Poker and blakjack support
@@ -13,7 +13,6 @@ The goal of the project is to help poker and blackjack players giving them more 
 ## Requirements
 
 * Python 3.7+
-
 
 * pygame >=1.9.6
 * SpeechRecognition >=3.8.1
@@ -111,3 +110,4 @@ Double | Double |
 ## Authors
 
 * **Luis Rosario** - *Initial work* - [Luisrosario](https://github.com/Luisrosario2604)
+* **Matthieu Daugas** - *Initial work* - [MatthieuDaugas](https://github.com/MatthieuDaugas)
