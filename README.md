@@ -6,7 +6,7 @@ The goal of the project is to help poker and blackjack players giving them more 
 
 - Speech recognition (in french)
 - Need to have a graphical interface
-- Need to give as many statistics as possible
+- Need to provide as many statistics as possible
 - Poker and blakjack support
 - The result need to be clear for the user even if the algorithm is complex
 
