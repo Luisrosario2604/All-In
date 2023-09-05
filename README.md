@@ -50,12 +50,12 @@ Exemple of one round (stopped at the turn) :
 
 ![Blackjack](./pictures/readme/Poker.jpg)
 
-Results traduction :
+Traduction :
 
 French | English |
 ------------ | ------------- |
 Paire | Pair |
-2 Paires | Two pair |
+Deux Paires | Two pair |
 Brelan | Three of a kind |
 Carré | Four of a kind |
 Couleur | Flush |
@@ -90,7 +90,7 @@ Exemple of one round :
 
 ![Blackjack](./pictures/readme/Blackjack.jpg)
 
-Results traduction :
+Traduction :
 
 French | English |
 ------------ | ------------- |
