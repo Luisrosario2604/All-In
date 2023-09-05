@@ -109,5 +109,5 @@ Double | Double |
 
 ## Authors
 
-* **Luis Rosario** - *Initial work* - [Luisrosario](https://github.com/Luisrosario2604)
-* **Matthieu Daugas** - *Initial work* - [MatthieuDaugas](https://github.com/MatthieuDaugas)
+* **Luis Rosario** - *Member 1* - [Luisrosario](https://github.com/Luisrosario2604)
+* **Matthieu Daugas** - *Member 2* - [MatthieuDaugas](https://github.com/MatthieuDaugas)
