@@ -37,7 +37,7 @@ sudo dnf install python-pyaudio
 How to install all the requirements (except Tkinter & Pyaudio):
 
 ```bash
-sudo pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
