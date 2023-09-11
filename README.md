@@ -14,15 +14,35 @@ The goal of the project is to help poker and blackjack players giving them more 
 
 * Python 3.7+
 
-* pygame >=1.9.6
-* SpeechRecognition >=3.8.1
+* Tkinter
 
-How to install all the requirements :
+* Pyaudio
+
+* pygame~=1.9.6
+* SpeechRecognition~=3.8.1
+
+How to install Tkinter & Pyaudio (linux) :
+
+```bash
+sudo apt-get install python3-tk
+sudo apt-get install python-pyaudio
+
+or
+
+sudo dnf install python3-tkinter
+sudo dnf install python-pyaudio
+
+```
+
+How to install all the requirements (except Tkinter & Pyaudio):
+
 ```bash
 sudo pip3 install -r requirements.txt
 ```
 
 ## Usage
+
+Important : When the program is launched, it chooses the default microphone (make sure your microphone is set correctly before launching All_in.py)
 
 ```bash
 ./All-In.py
